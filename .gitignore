@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+bin/win64/CLanguageCourse_d.pdb
+*.pdb
+*.log
+*.tlog
+*.ilk
+*.idb
